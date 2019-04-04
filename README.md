@@ -1,16 +1,14 @@
-# Akka Http User Service
+# Akka Http User Microservice
 
-This repository contains a simple CRUD (micro)service for managing user.
+Este repositório contém um serviço CRUD (micro) simples para gerenciar o usuário.
 
-## Overview 
+## Visão global
 
-The goal of this project is to show how to build a (micro)service using Scala and Akka Http. 
+O objetivo deste projeto é mostrar como construir um (micro) serviço usando Scala e Akka Http.
 
-In this project, you can find the following things:
-- marshalling/unmarshalling http JSON responses/requests with circe
-- error handling
-- using Monad Transformer in a real-world use case
-- unit and integration
-- ... and more!
-
-
+Neste projeto, você pode encontrar as seguintes coisas:
+- marshalling / unmarsing respostas JSON / pedidos http com circe
+- tratamento de erros
+- usando o Monad Transformer em um caso de uso do mundo real
+- unidade e integração
+- ... e mais!
