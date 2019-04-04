@@ -1,0 +1,10 @@
+*.class
+.idea
+target/
+*.tgz
+/bin/
+.cache-main
+.cache-tests
+.classpath
+.project
+.settings/
